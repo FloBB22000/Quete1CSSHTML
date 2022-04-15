@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    list-style: none;
+}
+ul{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    background-color: sandybrown
+}
+nav ul li:hover{
+background-color: antiquewhite;
+}
+.carousel{
+    background-color: antiquewhite;
+    height: 10em;
+}
+.titreFellows{
+   text-align: center;
+   margin: 7%;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      
+}
+.articles{
+    display: flex;
+    justify-content: center;
+
+
+}
+article{
+    height: 20em;
+    background-color: antiquewhite;
+    width: 30%;
+    margin: 2%;
+}
+.contact{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
+
+
+
